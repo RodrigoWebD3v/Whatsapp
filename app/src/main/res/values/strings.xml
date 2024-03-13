@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Whatsapp</string>
+    <string name="error_empty_name">Preencha o seu nome!</string>
+    <string name="error_empty_email">Preencha o seu e-mail!</string>
+    <string name="error_empty_password">Preencha a sua senha!</string>
+    <string name="success_registration">Sucesso ao fazer seu cadastro</string>
+    <string name="error_registration">Erro ao fazer seu cadastro</string>
+    <string name="error_invalid_email">E-mail inválido, digite outro e-mail</string>
+    <string name="error_existing_user">Erro: Este e-mail já está sendo utilizado</string>
+    <string name="error_weak_password">Erro: Senha muito fraca. Experimente usar letras maiúsculas, números e caracteres especiais</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

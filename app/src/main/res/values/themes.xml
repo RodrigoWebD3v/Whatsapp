@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Whatsapp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+       <item name="colorPrimary">@color/primaria</item>
+       <item name="actionOverflowButtonStyle">
+            @style/ActionOverflowButton
+       </item>
+    </style>
+
+    <style name="ActionOverflowButton" parent="Widget.AppCompat.Light.ActionButton.Overflow">
+        <item name="tint">@color/white</item>
+    </style>
+
+    <style name="Circulo">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="Theme.Whatsapp" parent="Base.Theme.Whatsapp" />
+</resources>
